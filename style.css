@@ -1,0 +1,20 @@
+body {
+  background-color: lightblue;
+}
+
+.title{
+    text-align: center;
+}
+
+.buttons , .status{
+    text-align: center;
+}
+
+.game-details{
+    text-align:center
+}
+
+#reset{
+    text-align: center;
+}
+
